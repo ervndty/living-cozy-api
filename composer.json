@@ -1,0 +1,15 @@
+{
+    "name": "pinnnru/living-cozy-api",
+    "autoload": {
+        "psr-4": {
+            "Pinnnru\\LivingCozyApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ervndty",
+            "email": "ervinaditya35@gmail.com"
+        }
+    ],
+    "require": {}
+}
