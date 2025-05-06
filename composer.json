@@ -1,5 +1,7 @@
 {
     "name": "pinnnru/living-cozy-api",
+    "description": "API backend untuk aplikasi Living Cozy",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Pinnnru\\LivingCozyApi\\": "src/"
